@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working freelancer<br>I'm a Front-end Developer<br>I self-development more everyday<br>
+I'm working as a freelancer<br>I'm a Front-end Developer<br>I self-development more everyday<br>
 
 
 ## 🌐 Socials:
